@@ -1,6 +1,4 @@
-modelo,tempo_execucao
-ModeloA,120
-ModeloB,150
-ModeloC,130
-ModeloD,110
-ModeloE,140
+Nome,Idade,Cidade
+João,25,São Paulo
+Maria,30,Rio de Janeiro
+Pedro,22,Belo Horizonte
