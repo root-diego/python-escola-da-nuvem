@@ -36,7 +36,7 @@ O objetivo deste repositório é:
 
 ## 👨‍💻 Autor
 
-**Diego**  
+**Diego Gonçalves**  
 Estudante de Engenharia de Software  
 Foco em Cloud, DevOps e Segurança  
 
